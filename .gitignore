@@ -1,0 +1,31 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Node dependencies
+node_modules/
+
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Build outputs
+dist/
+build/
+
+# Logs and temp files
+*.log
+*.tmp
+
+# IDE files
+.vscode/
+.idea/
+
+# Jupyter notebooks checkpoints
+**/.ipynb_checkpoints/
+
+# Environment variables
+.env
+
+
